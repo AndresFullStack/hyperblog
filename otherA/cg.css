@@ -4,7 +4,11 @@ body {
     margin: 0px;
 }
 
+
+/*Cambio 5!*/
+
 h1 {
     font-size: 200px;
     margin: 0;
+    text-transform: uppercase;
 }
