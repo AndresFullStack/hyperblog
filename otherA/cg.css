@@ -13,6 +13,18 @@ h1 {
     text-transform: uppercase;
 }
 
+.cabecera {
+    color: white;
+    width: 200px;
+    margin: auto;
+    background-color: blue;
+    font-size: 40px;
+    font-weight: bold;
+    -webkit-box-shadow: -2px 3px 10px 0px rgba(0, 0, 0, 0.88);
+    -moz-box-shadow: -2px 3px 10px 0px rgba(0, 0, 0, 0.88);
+    box-shadow: -2px 3px 10px 0px rgba(0, 0, 0, 0.88);
+}
+
 #container {
     width: 70%;
     margin: 0 auto;
