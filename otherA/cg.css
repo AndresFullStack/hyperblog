@@ -30,6 +30,9 @@ h1 {
     margin: 0 auto;
     border: 10px solid red;
     padding: 10px;
+    -webkit-box-shadow: -2px 3px 10px 0px rgba(0, 0, 0, 0.88);
+    -moz-box-shadow: -2px 3px 10px 0px rgba(0, 0, 0, 0.88);
+    box-shadow: -2px 3px 10px 0px rgba(0, 0, 0, 0.88);
 }
 
 #post {
